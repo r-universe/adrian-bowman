@@ -5,7 +5,6 @@
 [submodule "rpanel"]
 	path = rpanel
 	url = https://github.com/adrian-bowman/rpanel
-	subdir = rpanel
 [submodule "sm"]
 	path = sm
 	url = https://github.com/cran/sm
