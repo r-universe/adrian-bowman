@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rpanel"]
-	path = rpanel
-	url = https://github.com/adrian-bowman/rpanel
 [submodule "sm"]
 	path = sm
 	url = https://github.com/cran/sm
